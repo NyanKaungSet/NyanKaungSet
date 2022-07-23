@@ -47,7 +47,7 @@
 <details>
   <summary>:book: Languages</summary><br>
   <p align='center'>
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <!--img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"-->
   </p>
 </details>
 <hr>
@@ -69,7 +69,7 @@
 <hr>
 
 <details>
-  <summary>:rofl: Random Memes</summary><br>
+  <summary>:rofl: Random Jokes</summary><br>
   <p align='center'>
   <!--img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png"-->
     <img src="https://readme-jokes.vercel.app/api">
@@ -86,6 +86,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=FFFFFF&background=363636&center=true&vCenter=true&width=800&height=80&lines=Thanks+For+Visiting!">
   </a>
 </h1>
-<!-- 92/128 -->
-<!-- 92/1024 -->
-<!-- 13 in total, 1 private, 1 archive -->
+
+<!-- 14 in total, 1 private, 1 archive -->
