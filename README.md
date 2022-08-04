@@ -8,11 +8,11 @@
 </h1>
 
 - :round_pushpin: I'm from Myanmar :myanmar:
-- Pronouns: He/Him :boy:
-- Money that I currently have::egg:
-<br><br>
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
 - ***THE REVOLUTION WILL WIN!***:v:
+<br>
+
+- Pronouns: He/Him :boy:
 <br>
 
  <h3 align='center'>Member of :</h3>
