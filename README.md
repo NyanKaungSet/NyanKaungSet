@@ -4,18 +4,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=36BCF7FF&center=true&vCenter=true&width=900&height=100&lines=Hello+World!;I'm+Nyan+Kaung+Set;+A+person+who+love+to+eat,+sleep+and+code+:)">
-  </a><!--background=363636-->
+  </a>
 </h1>
 
-- :round_pushpin: I'm from Yangon, Myanmar :myanmar:
-- :eyes: Pronouns: He/Him :boy:
-- :dollar: Money that I currently have:  :egg: ... <img src="https://c.tenor.com/Y5Gr8bnIOf0AAAAC/eye-roll-emoji.gif" align=center width=40px>
-- :zap: Fun fact: I'm quite fat :rofl:
-<br>
-
-<p align=center>
-  <b><i>Motto: Eat :plate_with_cutlery: , Sleep :zzz: , Code :keyboard: and Repeat</i></b><br>
-<img src="https://c.tenor.com/6LS4ojqB4_UAAAAM/incredibles2-dash-parr.gif" width=220px> <img src="https://c.tenor.com/0QyZLiiDasAAAAAC/sleep-sleeping-time.gif" height=179px> <img src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height=179px> <img src="https://c.tenor.com/Dr_w8whfTlsAAAAM/refresh-repeat-refresh.gif" height=179px></p>
+- :round_pushpin: I'm from Myanmar :myanmar:
+- Pronouns: He/Him :boy:
+- Money that I currently have::egg:
 <br>
 
  <h3 align='center'>Member of :</h3>
@@ -47,7 +41,7 @@
 <details>
   <summary>:book: Languages</summary><br>
   <p align='center'>
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <!--img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"-->
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </p>
 </details>
 <hr>
