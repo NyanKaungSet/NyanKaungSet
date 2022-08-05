@@ -20,7 +20,7 @@
  <a href="https://github.com/Programmer-sClass"><img src="https://img.shields.io/badge/ProgrammersClass-000000?style=for-the-badge&logo=Programmer-sClass&logoColor=white"></a>
 <br>
  <h3 align='center'>Currently Learning :</h3>
-<p align='center'> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></p>
+<p align='center'> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
 <br>
 
 <h3 align='center'>My Workspace :computer:</h3>
@@ -41,7 +41,7 @@
 <hr>
 
 <details>
-  <summary>:book: Languages</summary><br>
+  <summary>:book: Skills</summary><br>
   <p align='center'>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   </p>
