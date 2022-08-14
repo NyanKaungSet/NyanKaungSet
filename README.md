@@ -9,6 +9,7 @@
 
 - :round_pushpin: I'm from Myanmar :myanmar:
 - Pronouns: He/Him :boy:
+- You can call me Robert :smile:
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
 - ***THE REVOLUTION WILL WIN!***:v:
 
