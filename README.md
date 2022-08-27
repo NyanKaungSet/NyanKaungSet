@@ -29,8 +29,9 @@
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nigmsyo6po7zicxftghlmn7nba&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nigmsyo6po7zicxftghlmn7nba&cover_image=true&theme=default">
+</div><br>
 
 
 <details>
