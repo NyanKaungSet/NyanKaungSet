@@ -79,6 +79,14 @@
 </details>
 <hr>
 
+<details>
+  <summary>:eyes: Want to see more details?</summary><br>
+  <p align='center'>
+    <img src="https://github.com/NyanKaungSet/Github-Workflow/blob/master/assets/img/github-metric.svg">
+  </p>
+</details>
+<hr>
+
 <p align=center>
 <img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
 <img src="./profile-3d-contrib/profile-green-animate.svg">
