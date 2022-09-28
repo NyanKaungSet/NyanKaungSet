@@ -11,7 +11,7 @@
 - Pronouns: He/Him :boy:
 - You can call me Robert :smile:
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
-- ***THE REVOLUTION WILL WIN!***:v:
+- ***THE SPRING REVOLUTION WILL WIN!***:v:
 
 <br>
 
@@ -21,7 +21,7 @@
  <a href="https://github.com/Programmer-sClass"><img src="https://img.shields.io/badge/ProgrammersClass-000000?style=for-the-badge&logo=Programmer-sClass&logoColor=white"></a>
 <br>
  <h3 align='center'>Currently Learning :</h3>
-<p align='center'> <!--img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"-->Nothing, too busy to learn :cry:</p>
+<p align='center'> <!--img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"-->Nothing, too busy to learn :cry:<br><!--img src=""--></p>
 <br>
 
 <h3 align='center'>My Workspace :computer:</h3>
