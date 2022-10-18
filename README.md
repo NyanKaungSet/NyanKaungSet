@@ -11,7 +11,7 @@
 - Pronouns: He/Him :boy:
 - You can call me Robert :smile:
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
-- ***THE SPRING REVOLUTION WILL WIN!***:v:
+- ***THE SPRING REVOLUTION MUST WIN!***:v:
 
 <br>
 
