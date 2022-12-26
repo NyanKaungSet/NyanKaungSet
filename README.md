@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-- :round_pushpin: I'm from Myanmar :myanmar:
+- :round_pushpin: I'm from Myanmar(Burma)
 - Pronouns: He/Him :boy:
 - You can call me Robert :smile:
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
