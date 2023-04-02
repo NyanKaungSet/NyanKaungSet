@@ -8,7 +8,6 @@
 </h1>
 
 - :round_pushpin: I'm from Myanmar(Burma)
-- Pronouns: He/Him :boy:
 - You can call me Robert :smile:
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
 - ***THE SPRING REVOLUTION MUST WIN!***:v:
@@ -39,9 +38,10 @@
   <p align=center>
     <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
-    <b>*Note</b>: Top languages is just a metric of the languages and doesn't reflect experience or skill level.<br><br>
+    <b>*Note:</b><i> Top languages is just a metric of the languages and doesn't reflect experience or skill level.</i><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
-    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"-->
+    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"--><br>
+    <b>*Note:</b><i> Commits, Pull requests and issues are just numbers and don't reflect experience or skill level.</i>
   </p>
 </details>
 <hr>
