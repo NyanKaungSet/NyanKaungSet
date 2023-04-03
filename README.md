@@ -62,6 +62,15 @@
 <hr>
 
 <details>
+  <summary>Wakatime Stats</summary><br>
+  <p align='center'>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </p>
+</details>
+<hr>
+
+<details>
   <summary>:iphone: Contact Me</summary><br>
   <p align='center'>
     <strong>Currently Not Available ☹️ </strong>
