@@ -74,6 +74,7 @@
       CSS          21 hrs 11 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
       JavaScript   13 hrs 40 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
       Other        1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+    
     <!--END_SECTION:waka-->
   </p>
 </details>
