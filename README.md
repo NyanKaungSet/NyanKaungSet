@@ -62,25 +62,6 @@
 <hr>
 
 <details>
-  <summary>Wakatime Stats</summary><br>
-  <p align='center'>
-    <!--START_SECTION:waka-->
-      From: 11 July 2022 - To: 02 April 2023
-
-      Total Time: 142 hrs 57 mins
-
-      HTML         76 hrs 23 mins  █████████████▒░░░░░░░░░░░   53.43 %
-      Markdown     30 hrs 6 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-      CSS          21 hrs 11 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-      JavaScript   13 hrs 40 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-      Other        1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-    
-    <!--END_SECTION:waka-->
-  </p>
-</details>
-<hr>
-
-<details>
   <summary>:iphone: Contact Me</summary><br>
   <p align='center'>
     <strong>Currently Not Available ☹️ </strong>
