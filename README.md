@@ -14,12 +14,8 @@
 
 <br>
 
- <!--h3 align='center'>Member of :</h3>
- <p align='center'>
- <a href="https://github.com/Programmer-sClass"><img src="https://img.shields.io/badge/ProgrammersClass-000000?style=for-the-badge&logo=Programmer-sClass&logoColor=white"></a-->
-<br>
  <h3 align='center'>Currently Learning :</h3>
-<p align='center'> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<p align='center'> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <!--Nothing, too busy to learn :cry:<br><!--img src=""--></p>
 <br>
 
@@ -62,18 +58,18 @@
 <details>
   <summary>:trophy: Trophy</summary><br>
   <p align='center'>
-    <img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet&rank=-C,-B">
+    <img src="https://github-profile-trophy.vercel.app/?username=NyanKaungSet">
   </p>
 </details>
 <hr>
 
-<details>
+<!--details>
   <summary>:iphone: Contact Me</summary><br>
   <p align='center'>
     <strong>Currently Not Available ☹️ </strong>
   </p>
 </details>
-<hr>
+<hr-->
 
 <details>
   <summary>:rofl: Random Jokes</summary><br>
