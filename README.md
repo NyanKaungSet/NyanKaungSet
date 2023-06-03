@@ -7,7 +7,10 @@
   </a>
 </h1>
 
-- :round_pushpin: I'm from Myanmar(Burma)
+<h3 align="center">:technologist: About Me</h3>
+
+- :round_pushpin: I'm a curious and ambitious high school student from Myanmar(Burma).
+- Thrilled to learn new things, particularly related to web developing & IT.
 - You can call me Robert :smile:
 - ***အရေးတော်ပုံအောင်ရမည်!***:v:
 - ***THE SPRING REVOLUTION MUST WIN!***:v:
