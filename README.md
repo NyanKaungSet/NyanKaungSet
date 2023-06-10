@@ -27,21 +27,20 @@
 
 <br>
 
-<!--div align="center">
+<!--div align="center"-->
   <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nigmsyo6po7zicxftghlmn7nba&cover_image=true&theme=default"></a>
-</div><br-->
+</div><br>
 
 
 <details>
   <summary>:bar_chart: Github Statistics</summary><br>
   <p align=center>
-    <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br-->
+    <!img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
     <b>*Note:</b><i> Top languages is just a metric of the languages and doesn't reflect experience or skill level.</i><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
-    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"--><br>
-    <b>*Note:</b><i> Commits, Pull requests and issues are just numbers and don't reflect experience or skill level.</i>
-  </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"><br>
+    
 </details>
 <hr>
 
