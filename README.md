@@ -10,10 +10,10 @@
 <h3 align="center">:technologist: About Me</h3>
 
 - :round_pushpin: I'm a curious and ambitious high school student from Myanmar(Burma).
-- Thrilled to learn new things, particularly related to web developing & IT.
+- :book: Thrilled to learn new things, particularly related to web developing & IT.
 - You can call me Robert :smile:
-- ***အရေးတော်ပုံအောင်ရမည်!***:v:
-- ***THE SPRING REVOLUTION MUST WIN!***:v:
+- :muscle: ***အရေးတော်ပုံအောင်ရမည်!***:v:
+- :muscle: ***THE SPRING REVOLUTION MUST WIN!***:v:
 
 <br>
 
@@ -23,7 +23,7 @@
 <br>
 
 <h3 align='center'>My Workspace :computer:</h3>
-<p align='center'><img src="https://img.shields.io/badge/Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"> <img src="https://img.shields.io/badge/Intel%20Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
+<p align='center'><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white"> <img src="https://img.shields.io/badge/Intel%20Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
 
 <br>
 
@@ -74,7 +74,7 @@
 <hr-->
 
 <details>
-  <summary>:rofl: Random Jokes</summary><br>
+  <summary>:laughing: Random Jokes</summary><br>
   <p align='center'>
   <!--img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png"-->
     <img src="https://readme-jokes.vercel.app/api">
