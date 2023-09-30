@@ -27,10 +27,13 @@
 
 <br>
 
-<!--div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nigmsyo6po7zicxftghlmn7nba&cover_image=true&theme=default"></a>
-</div><br-->
-
+<details>
+  <summary>:headphones: Spotify :musical_note:</summary><br>
+    <div align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nigmsyo6po7zicxftghlmn7nba&cover_image=true&theme=default"></a>
+    </div>
+</details>
+<hr>
 
 <details>
   <summary>:bar_chart: Github Statistics</summary><br>
@@ -40,7 +43,6 @@
     <b>*Note:</b><i> Top languages is just a metric of the languages and doesn't reflect experience or skill level.</i><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"><br>
-    
 </details>
 <hr>
 
@@ -76,9 +78,17 @@
 <details>
   <summary>:laughing: Random Jokes</summary><br>
   <p align='center'>
-  <!--img src="https://pbs.twimg.com/media/CV36bgQWwAAPmzL.png"-->
     <img src="https://readme-jokes.vercel.app/api">
   </p>
+</details>
+<hr>
+
+<details>
+  <summary>:eyes: Want to see my snake animation :snake: and 3D profile contribution?</summary><br>
+  <p align=center>
+    <img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
+    <img src="./profile-3d-contrib/profile-green-animate.svg">
+</p>
 </details>
 <hr>
 
@@ -90,16 +100,11 @@
 </details>
 <hr>
 
-<p align=center>
-<img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
-<img src="./profile-3d-contrib/profile-green-animate.svg">
-</p>
-<hr>
+
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&color=FFFFFF&background=363636&center=true&vCenter=true&width=800&height=80&lines=Thanks+For+Visiting!">
   </a>
 </h1>
-
-<!-- 15 in total, 1 private, 1 archive, 1 fork -->
