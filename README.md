@@ -38,7 +38,7 @@
 <details>
   <summary>:bar_chart: Github Statistics</summary><br>
   <p align=center>
-    <!img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br>
+    <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyanKaungSet&theme=vue"><br-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
     <b>*Note:</b><i> Top languages is just a metric of the languages and doesn't reflect experience or skill level.</i><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
@@ -76,7 +76,7 @@
 <hr-->
 
 <details>
-  <summary>:laughing: Random Jokes</summary><br>
+  <summary>😄 Random Jokes</summary><br>
   <p align='center'>
     <img src="https://readme-jokes.vercel.app/api">
   </p>
@@ -84,7 +84,7 @@
 <hr>
 
 <details>
-  <summary>:eyes: Want to see my snake animation :snake: and 3D profile contribution?</summary><br>
+  <summary>:upside_down_face: Want to see my snake animation :snake: and 3D profile contribution?</summary><br>
   <p align=center>
     <img alt="github contribution snake animation" src="https://github.com/NyanKaungSet/NyanKaungSet/blob/output/github-contribution-grid-snake.svg">
     <img src="./profile-3d-contrib/profile-green-animate.svg">
