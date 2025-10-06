@@ -12,9 +12,6 @@
 - :round_pushpin: I'm a curious and ambitious high school student from Myanmar(Burma).
 - :book: Thrilled to learn new things, particularly related to web developing & IT.
 - You can call me Robert :smile:
-- :muscle: ***အရေးတော်ပုံအောင်ရမည်!***:v:
-- :muscle: ***THE SPRING REVOLUTION MUST WIN!***:v:
-
 <br>
 
  <h3 align='center'>Currently Learning :</h3>
