@@ -16,7 +16,7 @@
 - 📚 Passionate about **web development** and **IT**.  
 - 😄 You can call me **Robert**.  
 - 🌐 Personal Website: [nyankaungset07.netlify.app](https://nyankaungset07.netlify.app)  
-- ✉️ Contact: *Currently unavailable due to current affairs.*
+- ✉️ Contact: *Unavailable due to current affairs.*
 
 ---
 
@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_11-0A74DA?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Acer%20Laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel%20Processor-N355-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
@@ -34,9 +33,9 @@
   <summary>📊 GitHub Statistics</summary><br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet&layout=compact&theme=highcontrast"><br>
-    <i>Top languages is just a metric of the languages and doesn't reflect experience or skill level.</i><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast">
+    <img src="https://github-readme-stats.vercel.app/api?username=NyanKaungSet&show_icons=true&count_private=true&theme=highcontrast"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyanKaungSet&theme=highcontrast"><br>
+    <i>Above stats are just metric and don't reflect experience or skill level.</i><br><br>
   </p>
 </details>
 
@@ -55,7 +54,6 @@
 
   <h4 align="center">Learning</h4>
   <p align="center">
-    <img src="https://img.shields.io/badge/Scratch-FF9C00?style=for-the-badge&logo=scratch&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </p>
 </details>
